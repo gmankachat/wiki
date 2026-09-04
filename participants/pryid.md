@@ -56,7 +56,7 @@
 >
 > ер голям в distrobox контейнере
 
-Эти сообщения связывают прид сразу с несколькими самостоятельными линиями: [SIM-картой Гросу](тимур-гросу.md#sim-карта-гросу), [Distrobox](../software/популярный-опенсорс.md#distrobox), [VeraCrypt-контейнером](../memes/veracrypt-контейнер.md), [600 бун](../memes/600-бун.md) и словесной игрой вокруг holly.
+Эти сообщения связывают прид сразу с несколькими самостоятельными линиями: [SIM-картой Гросу](тимур-гросу.md#sim-карта-гросу), [Distrobox](../memes/distrobox-toolbox.md), [VeraCrypt-контейнером](../memes/veracrypt-контейнер.md), [600 бун](../memes/600-бун.md) и словесной игрой вокруг holly.
 
 ## `.delmenow`
 
@@ -73,7 +73,7 @@
 ## См. также
 
 - [`.delmenow`](../memes/delmenow.md)
-- [Distrobox и Toolbox](../software/популярный-опенсорс.md#distrobox)
+- [Distrobox и Toolbox](../memes/distrobox-toolbox.md)
 - [VeraCrypt-контейнер](../memes/veracrypt-контейнер.md)
 - [600 бун](../memes/600-бун.md)
 - [Рофлы tyahar и holly](tyahar.md)

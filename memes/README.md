@@ -15,6 +15,7 @@
 - [600 бун](600-бун.md)
 - [`.delmenow`](delmenow.md)
 - [`7-8`](7-8.md)
+- [Distrobox и Toolbox](distrobox-toolbox.md)
 - [VeraCrypt-контейнер](veracrypt-контейнер.md)
 - [Где трек Rachel](трек-rachel.md)
 - [Комфорт](комфорт.md)
