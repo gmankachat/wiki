@@ -104,7 +104,7 @@ VeraCrypt-контейнер сначала был буквальным техн
 
 - [Ер Голям](../participants/ер-голям.md)
 - [Oracle и архивы](../software/oracle-и-архивы.md)
-- [Distrobox и Toolbox](distrobox-toolbox.md)
+- [Distrobox и Toolbox](../software/популярный-опенсорс.md#distrobox)
 
 ---
 Категории: [Мемы](README.md) · [Софт](../software/README.md)
