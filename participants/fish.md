@@ -1,8 +1,6 @@
 # Fish
 
-Fish / `@antlered_fish` - создала [Pocketblue](../software/pocketblue.md)
-
-Фраза «[Fish использует fish](../linux/fish-shell.md)» является буквальным техническим описанием.
+Fish / `@antlered_fish` — создала [Pocketblue](../software/pocketblue.md). Фраза «[Fish использует fish](../linux/fish-shell.md)» является буквальным техническим описанием.
 
 ## niri
 
