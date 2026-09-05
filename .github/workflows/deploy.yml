@@ -1,0 +1,14 @@
+on:
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: deploy
+        env:
+          GH_TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          gh workflow run --repo=gmankachat/gmankachat.github.io deploy.yml
